@@ -1,3 +1,7 @@
+
+![age](https://img.shields.io/badge/age-25-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+
 - 👋 Hi, I’m Austin.
 - 👀 I am a U.S. Navy Veteran. I like to game, read, explore, and create. 
 - 🌱 I am currently learning Full Stack Software Development.
