@@ -4,7 +4,9 @@
 - 💞️ I hope to create websites, software, programs, and apps that will make your life easier.
 - 📫 I Can be reached at 'austinmay.dev@gmail.com' for all inquires, business and personal.
 
+<div align-"center">
 MyTechnologies:
+</div>
 
 <div align="center">
 
