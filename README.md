@@ -13,7 +13,7 @@
 
 <div align="center">
 
-My Technologies:
+## 👨‍💻 Languages and Tools
   
 <br>
 </div>
