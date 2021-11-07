@@ -3,6 +3,8 @@
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 👋 Hi, I’m Austin.
 - 👀 I am a U.S. Navy Veteran. I like to game, read, explore, and create. 
 - 🌱 I am currently learning Full Stack Software Development.
