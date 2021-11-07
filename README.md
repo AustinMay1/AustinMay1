@@ -37,8 +37,10 @@
 
   
 <br >
+<div align="center">
 
 ## 🏆 Github Status
+</div>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=AustinMay1&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
