@@ -9,7 +9,10 @@
 - 📫 I Can be reached at 'austinmay.dev@gmail.com' for all inquires, business and personal.
 
 <div align="center">
-MyTechnologies:
+
+My Technologies:
+  
+<br>
 </div>
 
 
@@ -30,3 +33,14 @@ MyTechnologies:
 </div>
 
   
+<br >
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=AustinMay1&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%" >
+
+<br>
+
+<div align="center">
