@@ -20,8 +20,7 @@
 
 
 <div align="center">
-
-<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
