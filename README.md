@@ -46,6 +46,9 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%" >
 
+
 <br>
 
 <div align="center">
+  
+[![AustinMay1's github activity graph](https://activity-graph.herokuapp.com/graph?username=AustinMay1&theme=xcode)](https://github.com/AustinMay1)
