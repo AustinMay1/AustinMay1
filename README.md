@@ -20,6 +20,10 @@
 
 
 <div align="center">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="60" width="60"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60">
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
