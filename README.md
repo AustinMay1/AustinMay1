@@ -51,4 +51,4 @@
 
 <div align="center">
   
-[![AustinMay1's github activity graph](https://activity-graph.herokuapp.com/graph?username=AustinMay1&theme=xcode)](https://github.com/AustinMay1)
+[![AustinMay1's github activity graph](https://activity-graph.herokuapp.com/graph?username=AustinMay1&theme=react-dark)](https://github.com/AustinMay1)
