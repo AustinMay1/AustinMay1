@@ -20,7 +20,7 @@
 
 
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="60" width="60"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" height="60" width="60"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="60" width="60"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60">
 <br>
