@@ -48,7 +48,7 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=AustinMay1&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AustinMay1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 <br>
