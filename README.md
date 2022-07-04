@@ -38,15 +38,3 @@
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 </div>
-
-  
-<br >
-<div align="center">
-
-## 🏆 Github Status
-</div>
-
-
-<div aligne="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%">
-</div>
