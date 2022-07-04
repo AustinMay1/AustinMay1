@@ -47,9 +47,9 @@
 </div>
 
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%" align="center">
-
+<center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%">
+</center>
 
 <br>
 
