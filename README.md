@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="60" width="60"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60">
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" width="60">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
@@ -46,13 +46,11 @@
 ## 🏆 Github Status
 </div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=AustinMay1&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%" >
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AustinMay1&theme=dark" width="45%" align="center">
 
 
 <br>
 
-<div align="center">
-  
-[![AustinMay1's github activity graph](https://activity-graph.herokuapp.com/graph?username=AustinMay1&theme=react-dark)](https://github.com/AustinMay1)
+
