@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-![age](https://img.shields.io/badge/age-25-blue)
+![age](https://img.shields.io/badge/age-26-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
