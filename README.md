@@ -10,7 +10,7 @@
 - 🌱 I am currently learning Full Stack Software Development.
 - 💞️ I hope to create websites, software, programs, and apps that will make your life easier.
 - 📫 I Can be reached at 'austinmay.dev@gmail.com' for all inquires, business and personal.
-
+<img src="https://www.codewars.com/users/AustinMay1/badges/small">
 <div align="center">
 
 ## 👨‍💻 Languages and Tools
