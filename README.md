@@ -9,7 +9,7 @@
 - 👀 I am a U.S. Navy Veteran. I like to game, read, explore, and create. 
 - 🌱 I am currently learning Full Stack Software Development.
 - 💞️ I hope to create websites, software, programs, and apps that will make your life easier.
-- 📫 I Can be reached at 'austinmay.dev@gmail.com' for all inquires, business and personal.
+- 📫 I Can be reached at 'work@austinmay.dev' for all inquires, business and personal.
 <img src="https://www.codewars.com/users/AustinMay1/badges/small">
 <div align="center">
 
