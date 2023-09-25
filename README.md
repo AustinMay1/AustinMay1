@@ -19,15 +19,3 @@
 ###
 
 <p align="left">I'm Austin, from Central Florida.<br><br>- 🔭 I’m working as a freelance full-stack developer.<br>- 📚 I'm currently learning embedded systems & computer science.<br>- ⚡ In my free time I like to read, play video games, write code, and adventure.<br>- 📫 I can be reached at austinmay.dev@gmail.com for all inquires, business and personal.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinMay1&hide_progress=true)
-</div>
-
-###
